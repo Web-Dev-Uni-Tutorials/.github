@@ -44,7 +44,7 @@
 25. https://github.com/Web-Dev-Uni-Tutorials/simple-oo-mvc
 26. https://github.com/Web-Dev-Uni-Tutorials/object-relational-mapping
 
-### Year 3: Advanced Frontend Web Development (Advanced CSS and JS)
+### Final Year: Advanced Frontend Web Development (Advanced CSS and JS)
 
 1. https://github.com/Web-Dev-Uni-Tutorials/object-oriented-javascript
 2. https://github.com/Web-Dev-Uni-Tutorials/loading-external-data
